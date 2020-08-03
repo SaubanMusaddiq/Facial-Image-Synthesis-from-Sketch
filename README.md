@@ -15,7 +15,7 @@ Fix point P GAN generates facial images that have dramatically reduced artifacts
 
 <table align='center'>
 <tr>
-<td><img src = '/images/fpgan_128.png'>
+<td><img src = '/images/fpgan_128.jpg'>
 </tr>
 <tr align='center'>
 <td>FP GAN Domain to domain Translation. Col 1: Images in both the domains (sketch and photo), Col2: Translated image in domain 1(photo), Col3: Translated image in domain 2(Sketch)</td>
